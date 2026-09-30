@@ -1,0 +1,1100 @@
+[
+  {
+    "id": "ru-wolves-forest",
+    "culture": "ru",
+    "original": "Волков бояться — в лес не ходить.",
+    "transliteration": "Volkov boyat'sya — v les ne khodit'.",
+    "translation": "If you're afraid of wolves, don't go into the forest.",
+    "meaning": "If you fear every risk, you'll never do anything worthwhile.",
+    "equivalent": "Nothing ventured, nothing gained.",
+    "note": "Said to someone hesitating over a risky step. The wolves stand in for whatever danger you have to accept to get what the forest offers: firewood, mushrooms, game.",
+    "type": "proverb"
+  },
+  {
+    "id": "ru-slower-farther",
+    "culture": "ru",
+    "original": "Тише едешь — дальше будешь.",
+    "transliteration": "Tishe yedesh' — dal'she budesh'.",
+    "translation": "The slower you ride, the farther you'll get.",
+    "meaning": "Rushing wears you out; a steady pace gets you further in the end.",
+    "equivalent": "Slow and steady wins the race.",
+    "note": "An old coaching proverb: horses driven hard early won't last the journey. Тише here means \"slower\", not \"quieter\".",
+    "type": "proverb"
+  },
+  {
+    "id": "ru-fish-pond",
+    "culture": "ru",
+    "original": "Без труда не вытащишь и рыбку из пруда.",
+    "transliteration": "Bez truda ne vytashchish' i rybku iz pruda.",
+    "translation": "Without effort, you can't even pull a little fish out of a pond.",
+    "meaning": "Nothing comes without work, not even the easy things.",
+    "equivalent": "No pain, no gain.",
+    "note": "One of the first proverbs Russian children learn. Рыбка is the diminutive \"little fish\": even the smallest prize takes work.",
+    "type": "proverb"
+  },
+  {
+    "id": "ru-hundred-friends",
+    "culture": "ru",
+    "original": "Не имей сто рублей, а имей сто друзей.",
+    "transliteration": "Ne imey sto rubley, a imey sto druzey.",
+    "translation": "Don't have a hundred rubles — have a hundred friends.",
+    "meaning": "Friendships are worth more than money.",
+    "note": "The rhyme of рублей and друзей makes it stick. It's a staple of toasts and birthday cards.",
+    "type": "proverb"
+  },
+  {
+    "id": "ru-morning-wiser",
+    "culture": "ru",
+    "original": "Утро вечера мудренее.",
+    "transliteration": "Utro vechera mudreneye.",
+    "translation": "The morning is wiser than the evening.",
+    "meaning": "Don't make decisions when you're tired; a rested mind sees more clearly.",
+    "equivalent": "Sleep on it.",
+    "note": "Familiar from Russian fairy tales, where a helper tells the troubled hero to go to sleep. By morning, the impossible task has been solved.",
+    "type": "proverb"
+  },
+  {
+    "id": "ru-own-sleigh",
+    "culture": "ru",
+    "original": "Не в свои сани не садись.",
+    "transliteration": "Ne v svoi sani ne sadis'.",
+    "translation": "Don't climb into a sleigh that isn't yours.",
+    "meaning": "Don't take on roles or ambitions that don't suit you.",
+    "equivalent": "Cobbler, stick to your last.",
+    "note": "Also the title of an 1853 comedy by Alexander Ostrovsky, about a merchant's daughter who runs off with a nobleman.",
+    "type": "proverb"
+  },
+  {
+    "id": "ru-moscow-built",
+    "culture": "ru",
+    "original": "Москва не сразу строилась.",
+    "transliteration": "Moskva ne srazu stroilas'.",
+    "translation": "Moscow wasn't built all at once.",
+    "meaning": "Great things take time.",
+    "equivalent": "Rome wasn't built in a day.",
+    "note": "The Russian counterpart of the Roman proverb, with the city that mattered at home swapped in.",
+    "type": "proverb"
+  },
+
+  {
+    "id": "ja-seven-falls",
+    "culture": "ja",
+    "original": "七転び八起き",
+    "transliteration": "nana korobi ya oki",
+    "translation": "Fall down seven times, get up eight.",
+    "meaning": "However many times you fail, get back up.",
+    "equivalent": "If at first you don't succeed, try, try again.",
+    "note": "The extra \"eight\" is the point: you always rise once more than you fall. The daruma doll, weighted to pop back upright, is its emblem.",
+    "type": "proverb"
+  },
+  {
+    "id": "ja-monkeys-fall",
+    "culture": "ja",
+    "original": "猿も木から落ちる",
+    "transliteration": "saru mo ki kara ochiru",
+    "translation": "Even monkeys fall from trees.",
+    "meaning": "Even experts make mistakes.",
+    "equivalent": "Even Homer nods.",
+    "note": "Said kindly when a skilled person slips up — a way of saying the mistake doesn't define them.",
+    "type": "proverb"
+  },
+  {
+    "id": "ja-dumplings-flowers",
+    "culture": "ja",
+    "original": "花より団子",
+    "transliteration": "hana yori dango",
+    "translation": "Dumplings rather than flowers.",
+    "meaning": "Practical benefits matter more than beauty.",
+    "equivalent": "Substance over style.",
+    "note": "Born from hanami, the cherry-blossom picnic, where many guests care more about the food than the blossoms. Often used teasingly.",
+    "type": "proverb"
+  },
+  {
+    "id": "ja-stake-hammered",
+    "culture": "ja",
+    "original": "出る杭は打たれる",
+    "transliteration": "deru kui wa utareru",
+    "translation": "The stake that sticks out gets hammered down.",
+    "meaning": "Whoever stands out attracts criticism.",
+    "equivalent": "The tall poppy gets cut down.",
+    "note": "Often cited as a comment on conformity in Japan — and just as often quoted by people who stick out anyway.",
+    "type": "proverb"
+  },
+  {
+    "id": "ja-frog-well",
+    "culture": "ja",
+    "original": "井の中の蛙大海を知らず",
+    "transliteration": "i no naka no kawazu taikai o shirazu",
+    "translation": "A frog in a well knows nothing of the great ocean.",
+    "meaning": "Narrow experience gives a narrow view of the world.",
+    "note": "Borrowed from the Chinese classic Zhuangzi. Japanese later added a hopeful ending: されど空の青さを知る, \"but it knows the blueness of the sky.\"",
+    "type": "proverb"
+  },
+  {
+    "id": "ja-stone-three-years",
+    "culture": "ja",
+    "original": "石の上にも三年",
+    "transliteration": "ishi no ue ni mo sannen",
+    "translation": "Even on a stone — three years.",
+    "meaning": "Persevere, and even hardship eventually gives way.",
+    "equivalent": "Perseverance pays off.",
+    "note": "Sit on a cold stone for three years and it will grow warm. It is often offered to new employees who want to quit early.",
+    "type": "proverb"
+  },
+  {
+    "id": "ja-ichigo-ichie",
+    "culture": "ja",
+    "original": "一期一会",
+    "transliteration": "ichigo ichie",
+    "translation": "One time, one meeting.",
+    "meaning": "Every encounter happens only once, so treasure it.",
+    "note": "Rooted in the tea ceremony. The host prepares each gathering as if it can never be repeated — because, exactly as it is, it can't.",
+    "type": "idiom"
+  },
+
+  {
+    "id": "zh-thousand-li",
+    "culture": "zh",
+    "original": "千里之行，始于足下。",
+    "transliteration": "Qiān lǐ zhī xíng, shǐ yú zú xià.",
+    "translation": "A journey of a thousand li begins beneath your feet.",
+    "meaning": "Great undertakings start with a single small action.",
+    "equivalent": "A journey of a thousand miles begins with a single step.",
+    "note": "A li is a traditional unit of distance, about half a kilometre. The familiar English version comes from this line, which literally speaks of the ground under your feet rather than a step.",
+    "source": "Tao Te Ching, ch. 64",
+    "type": "saying"
+  },
+  {
+    "id": "zh-old-man-horse",
+    "culture": "zh",
+    "original": "塞翁失马，焉知非福。",
+    "transliteration": "Sài wēng shī mǎ, yān zhī fēi fú.",
+    "translation": "The old man at the frontier lost his horse — who's to say it wasn't a blessing?",
+    "meaning": "In the moment, good and bad fortune are hard to tell apart.",
+    "equivalent": "A blessing in disguise.",
+    "note": "The horse runs off, then returns with a fine stallion. The son breaks his leg riding it, and the injury keeps him out of a war that kills most young men. At every turn, the old man refuses to call it good or bad.",
+    "source": "Huainanzi, 2nd century BCE",
+    "type": "parable"
+  },
+  {
+    "id": "zh-three-walk",
+    "culture": "zh",
+    "original": "三人行，必有我师。",
+    "transliteration": "Sān rén xíng, bì yǒu wǒ shī.",
+    "translation": "When three people walk together, one of them can surely be my teacher.",
+    "meaning": "You can learn something from anyone.",
+    "note": "Confucius continues: follow their good qualities, and use their bad ones to correct yourself.",
+    "source": "Analects 7.22",
+    "type": "saying"
+  },
+  {
+    "id": "zh-snake-feet",
+    "culture": "zh",
+    "original": "画蛇添足",
+    "transliteration": "huà shé tiān zú",
+    "translation": "Drawing a snake and adding feet.",
+    "meaning": "Ruining something by overdoing it.",
+    "equivalent": "Gilding the lily.",
+    "note": "In a race to draw a snake for a jug of wine, the fastest artist had time to spare, so he added feet — and lost, because snakes don't have feet.",
+    "source": "Zhan Guo Ce",
+    "type": "idiom"
+  },
+  {
+    "id": "zh-qin-cow",
+    "culture": "zh",
+    "original": "对牛弹琴",
+    "transliteration": "duì niú tán qín",
+    "translation": "Playing the qin to a cow.",
+    "meaning": "Wasting refined words on an audience that can't appreciate them.",
+    "equivalent": "Casting pearls before swine.",
+    "note": "The qin is the seven-string zither of scholars. The phrase can scold the listener for not getting it — or the speaker for choosing the wrong audience.",
+    "type": "idiom"
+  },
+  {
+    "id": "zh-mend-pen",
+    "culture": "zh",
+    "original": "亡羊补牢",
+    "transliteration": "wáng yáng bǔ láo",
+    "translation": "Mending the pen after a sheep is lost.",
+    "meaning": "Fix a problem even after a loss, before it gets worse.",
+    "equivalent": "Better late than never.",
+    "note": "The original line goes on: 未为迟也, \"it is not too late.\" Compare the Korean proverb about fixing the barn after the cow is gone, which draws the opposite lesson.",
+    "source": "Zhan Guo Ce",
+    "type": "idiom"
+  },
+  {
+    "id": "zh-stump-rabbit",
+    "culture": "zh",
+    "original": "守株待兔",
+    "transliteration": "shǒu zhū dài tù",
+    "translation": "Guarding a tree stump, waiting for rabbits.",
+    "meaning": "Waiting for luck to strike twice instead of working.",
+    "note": "A farmer saw a rabbit run into a stump and break its neck. He abandoned his plough to wait for another; his fields went to ruin and he became a laughingstock.",
+    "source": "Han Feizi",
+    "type": "parable"
+  },
+
+  {
+    "id": "ko-words-out",
+    "culture": "ko",
+    "original": "가는 말이 고와야 오는 말이 곱다",
+    "transliteration": "ganeun mari gowaya oneun mari gopda",
+    "translation": "Only if the words going out are kind will the words coming back be kind.",
+    "meaning": "Treat others the way you want to be treated.",
+    "equivalent": "What goes around comes around.",
+    "note": "A gentle reminder that the tone of a conversation is set by whoever speaks first.",
+    "type": "proverb"
+  },
+  {
+    "id": "ko-birds-mice",
+    "culture": "ko",
+    "original": "낮말은 새가 듣고 밤말은 쥐가 듣는다",
+    "transliteration": "nanmareun saega deutgo bammareun jwiga deunneunda",
+    "translation": "Birds hear the words of the day; mice hear the words of the night.",
+    "meaning": "Someone is always listening, so be careful what you say.",
+    "equivalent": "The walls have ears.",
+    "note": "Revised Romanization follows pronunciation, which is why 낮말 becomes \"nanmal\" rather than \"natmal\".",
+    "type": "proverb"
+  },
+  {
+    "id": "ko-tiger",
+    "culture": "ko",
+    "original": "호랑이도 제 말 하면 온다",
+    "transliteration": "horangido je mal hamyeon onda",
+    "translation": "Even a tiger comes when you talk about it.",
+    "meaning": "The person you're talking about often shows up.",
+    "equivalent": "Speak of the devil.",
+    "note": "Tigers once roamed the Korean peninsula and fill its folklore, where they are as often foolish as fearsome.",
+    "type": "proverb"
+  },
+  {
+    "id": "ko-paper-together",
+    "culture": "ko",
+    "original": "백지장도 맞들면 낫다",
+    "transliteration": "baekjijangdo matdeulmyeon natda",
+    "translation": "Even a sheet of paper is better lifted together.",
+    "meaning": "Cooperation helps, even with small tasks.",
+    "equivalent": "Many hands make light work.",
+    "note": "The point is that no job is too small to share.",
+    "type": "proverb"
+  },
+  {
+    "id": "ko-cow-barn",
+    "culture": "ko",
+    "original": "소 잃고 외양간 고친다",
+    "transliteration": "so ilko oeyanggan gochinda",
+    "translation": "Fixing the barn after losing the cow.",
+    "meaning": "Taking precautions only after it's too late.",
+    "equivalent": "Closing the barn door after the horse has bolted.",
+    "note": "Where the Chinese idiom 亡羊补牢 says it's never too late to mend the pen, the Korean version mocks the fix as pointless. Same image, opposite moral.",
+    "type": "proverb"
+  },
+  {
+    "id": "ko-rice-cake",
+    "culture": "ko",
+    "original": "누워서 떡 먹기",
+    "transliteration": "nuwoseo tteok meokgi",
+    "translation": "Eating rice cake lying down.",
+    "meaning": "Something extremely easy.",
+    "equivalent": "A piece of cake.",
+    "note": "Tteok is chewy rice cake. Its English cousin also reaches for cake — though eating tteok lying down would actually be quite hard.",
+    "type": "idiom"
+  },
+  {
+    "id": "ko-dust-mountain",
+    "culture": "ko",
+    "original": "티끌 모아 태산",
+    "transliteration": "tikkeul moa taesan",
+    "translation": "Gather specks of dust and you get Mount Tai.",
+    "meaning": "Small amounts add up.",
+    "equivalent": "Every little bit helps.",
+    "note": "Mount Tai in China was the classic image of something vast. The saying is a favourite of savers — and of bank adverts.",
+    "type": "proverb"
+  },
+
+  {
+    "id": "ar-patience-key",
+    "culture": "ar",
+    "original": "الصبر مفتاح الفرج",
+    "transliteration": "aṣ-ṣabru miftāḥu l-faraj",
+    "translation": "Patience is the key to relief.",
+    "meaning": "Endure hard times patiently and relief will come.",
+    "equivalent": "Good things come to those who wait.",
+    "note": "Faraj means release from hardship. The saying is used to comfort someone waiting out a difficult time.",
+    "type": "proverb"
+  },
+  {
+    "id": "ar-strives-finds",
+    "culture": "ar",
+    "original": "من جدّ وجد",
+    "transliteration": "man jadda wajad",
+    "translation": "Whoever strives, finds.",
+    "meaning": "Effort is rewarded.",
+    "equivalent": "Where there's a will, there's a way.",
+    "note": "Two short verbs that almost mirror each other. It's a favourite of schoolteachers and is often written on classroom walls.",
+    "type": "proverb"
+  },
+  {
+    "id": "ar-neighbour-house",
+    "culture": "ar",
+    "original": "الجار قبل الدار",
+    "transliteration": "al-jār qabla d-dār",
+    "translation": "The neighbour before the house.",
+    "meaning": "Choose your neighbours before you choose your home.",
+    "note": "Neighbourliness carries great weight in Arab tradition. A fine house next to bad neighbours is no bargain.",
+    "type": "proverb"
+  },
+  {
+    "id": "ar-past-dead",
+    "culture": "ar",
+    "original": "اللي فات مات",
+    "transliteration": "illī fāt māt",
+    "translation": "What's past is dead.",
+    "meaning": "Leave old grievances behind.",
+    "equivalent": "Let bygones be bygones.",
+    "note": "Colloquial rather than classical Arabic, heard across Egypt and the Levant. The rhyme of fāt and māt gives it snap.",
+    "type": "saying"
+  },
+  {
+    "id": "ar-vessel",
+    "culture": "ar",
+    "original": "كل إناء بما فيه ينضح",
+    "transliteration": "kullu ināʾin bimā fīhi yanḍaḥ",
+    "translation": "Every vessel seeps what it holds.",
+    "meaning": "People reveal their true nature through what they say and do.",
+    "note": "Often quoted after someone says something unkind: the words say more about the speaker than the target.",
+    "type": "proverb"
+  },
+  {
+    "id": "ar-every-occasion",
+    "culture": "ar",
+    "original": "لكل مقام مقال",
+    "transliteration": "li-kulli maqāmin maqāl",
+    "translation": "Every occasion has its fitting words.",
+    "meaning": "Match what you say to the situation.",
+    "equivalent": "There's a time and a place for everything.",
+    "note": "A principle of classical Arabic rhetoric (balāgha): true eloquence means fitting the speech to the moment.",
+    "type": "maxim"
+  },
+  {
+    "id": "ar-eye-eyebrow",
+    "culture": "ar",
+    "original": "العين لا تعلو على الحاجب",
+    "transliteration": "al-ʿaynu lā taʿlū ʿalā l-ḥājib",
+    "translation": "The eye doesn't rise above the eyebrow.",
+    "meaning": "Respect those above you — elders, superiors, tradition.",
+    "note": "Said to someone who oversteps with an elder or a boss. Colloquial versions differ from dialect to dialect.",
+    "type": "proverb",
+    "review": true
+  },
+
+  {
+    "id": "he-this-too-good",
+    "culture": "he",
+    "original": "גם זו לטובה",
+    "transliteration": "gam zo le-tova",
+    "translation": "This too is for the good.",
+    "meaning": "Even setbacks may turn out for the best.",
+    "equivalent": "A blessing in disguise.",
+    "note": "The Talmud links it to Nahum Ish Gamzu, who said it whatever befell him. The pun on his name, Gamzu, is part of the story.",
+    "source": "Talmud, Ta'anit 21a",
+    "type": "saying"
+  },
+  {
+    "id": "he-if-not-me",
+    "culture": "he",
+    "original": "אם אין אני לי, מי לי?",
+    "transliteration": "im ein ani li, mi li?",
+    "translation": "If I am not for myself, who will be for me?",
+    "meaning": "Take responsibility for yourself — but not only for yourself.",
+    "note": "Hillel goes on: \"And if I am only for myself, what am I? And if not now, when?\" The three lines balance self-reliance, generosity and urgency.",
+    "source": "Pirkei Avot 1:14",
+    "type": "maxim"
+  },
+  {
+    "id": "he-nothing-new",
+    "culture": "he",
+    "original": "אין חדש תחת השמש",
+    "transliteration": "ein ḥadash taḥat ha-shemesh",
+    "translation": "There is nothing new under the sun.",
+    "meaning": "Whatever is happening has happened before.",
+    "note": "English borrowed the phrase directly through the King James Bible. In both languages it's used wearily and wryly.",
+    "source": "Ecclesiastes 1:9",
+    "type": "saying"
+  },
+  {
+    "id": "he-beginnings-hard",
+    "culture": "he",
+    "original": "כל ההתחלות קשות",
+    "transliteration": "kol ha-hatḥalot kashot",
+    "translation": "All beginnings are hard.",
+    "meaning": "The start is the hardest part; don't be discouraged by it.",
+    "note": "Rooted in rabbinic commentary, it's now everyday Israeli encouragement for anyone starting something new. German has the same saying: Aller Anfang ist schwer.",
+    "source": "Mekhilta; Rashi on Exodus 19:5",
+    "type": "saying"
+  },
+  {
+    "id": "he-grasp-much",
+    "culture": "he",
+    "original": "תפסת מרובה לא תפסת",
+    "transliteration": "tafasta merubeh lo tafasta",
+    "translation": "Grasp too much, and you've grasped nothing.",
+    "meaning": "Overreaching leaves you with nothing.",
+    "equivalent": "Don't bite off more than you can chew.",
+    "note": "Originally a Talmudic legal principle: when in doubt, take the smaller amount, because it's certain. Now used for any overambitious plan.",
+    "source": "Talmud, Rosh Hashanah 4b",
+    "type": "maxim"
+  },
+  {
+    "id": "he-jug",
+    "culture": "he",
+    "original": "אל תסתכל בקנקן, אלא במה שיש בו",
+    "transliteration": "al tistakel ba-kankan, ela ba-meh she-yesh bo",
+    "translation": "Don't look at the jug, but at what's inside it.",
+    "meaning": "Judge people by their substance, not their appearance.",
+    "equivalent": "Don't judge a book by its cover.",
+    "note": "Rabbi Meir continues: \"There is a new jug full of old wine, and an old jug without even new wine in it.\"",
+    "source": "Pirkei Avot 4:20",
+    "type": "maxim"
+  },
+
+  {
+    "id": "hi-as-you-do",
+    "culture": "hi",
+    "original": "जैसी करनी वैसी भरनी",
+    "transliteration": "jaisī karnī vaisī bharnī",
+    "translation": "As you act, so you will pay.",
+    "meaning": "Your actions come back to you.",
+    "equivalent": "You reap what you sow.",
+    "note": "A folk echo of the idea of karma. The rhyming pair karnī (doing) and bharnī (paying back) makes it easy to remember.",
+    "type": "proverb"
+  },
+  {
+    "id": "hi-half-pot",
+    "culture": "hi",
+    "original": "अधजल गगरी छलकत जाय",
+    "transliteration": "adhjal gagrī chhalkat jāy",
+    "translation": "A half-filled pot keeps splashing over.",
+    "meaning": "Those with a little knowledge make the most show of it.",
+    "equivalent": "Empty vessels make the most noise.",
+    "note": "A full pot, carried carefully, doesn't spill. The verb forms come from older Hindi dialects, which gives it a rustic, timeless ring.",
+    "type": "proverb"
+  },
+  {
+    "id": "hi-birds-field",
+    "culture": "hi",
+    "original": "अब पछताए होत क्या, जब चिड़िया चुग गई खेत",
+    "transliteration": "ab pachhtāe hot kyā, jab chiṛiyā chug gaī khet",
+    "translation": "What use is regret now, when the birds have already picked the field clean?",
+    "meaning": "Regret is pointless once the damage is done.",
+    "equivalent": "No use crying over spilt milk.",
+    "note": "A farmer who didn't guard his crop has only himself to blame. The first half is in an older, poetic register.",
+    "type": "proverb"
+  },
+  {
+    "id": "hi-home-chicken",
+    "culture": "hi",
+    "original": "घर की मुर्गी दाल बराबर",
+    "transliteration": "ghar kī murgī dāl barābar",
+    "translation": "A chicken at home is worth no more than lentils.",
+    "meaning": "We undervalue what we already have.",
+    "equivalent": "Familiarity breeds contempt.",
+    "note": "Chicken is a treat and dal an everyday staple — but the chicken you raise yourself stops feeling special.",
+    "type": "proverb"
+  },
+  {
+    "id": "hi-crooked-courtyard",
+    "culture": "hi",
+    "original": "नाच न जाने आँगन टेढ़ा",
+    "transliteration": "nāch na jāne āṅgan ṭeṛhā",
+    "translation": "Can't dance, so blames the crooked courtyard.",
+    "meaning": "Blaming circumstances for your own lack of skill.",
+    "equivalent": "A bad workman blames his tools.",
+    "note": "The āṅgan is the open courtyard at the heart of a traditional house, where celebrations and dancing take place.",
+    "type": "proverb"
+  },
+  {
+    "id": "hi-monkey-ginger",
+    "culture": "hi",
+    "original": "बंदर क्या जाने अदरक का स्वाद",
+    "transliteration": "bandar kyā jāne adrak kā svād",
+    "translation": "What does a monkey know of the taste of ginger?",
+    "meaning": "Some people can't appreciate something fine.",
+    "equivalent": "Casting pearls before swine.",
+    "note": "A common playful insult, the kind traded between friends.",
+    "type": "proverb"
+  },
+  {
+    "id": "hi-crocodile",
+    "culture": "hi",
+    "original": "जल में रहकर मगर से बैर",
+    "transliteration": "jal meṁ rahkar magar se bair",
+    "translation": "Living in the water, yet feuding with the crocodile.",
+    "meaning": "Don't make enemies of the powerful people you live alongside.",
+    "note": "A warning to anyone — an employee, a tenant — tempted to pick a fight with whoever controls their surroundings.",
+    "type": "proverb"
+  },
+
+  {
+    "id": "fa-effort-blessing",
+    "culture": "fa",
+    "original": "از تو حرکت، از خدا برکت",
+    "transliteration": "az to harekat, az khodā barekat",
+    "translation": "From you, the effort; from God, the blessing.",
+    "meaning": "Do your part and good fortune will follow.",
+    "equivalent": "God helps those who help themselves.",
+    "note": "The rhyme of harekat and barekat carries it. Iranians use it to nudge someone into getting started.",
+    "type": "proverb"
+  },
+  {
+    "id": "fa-accounts-brother",
+    "culture": "fa",
+    "original": "حساب حساب است، کاکا برادر",
+    "transliteration": "hesāb hesāb ast, kākā barādar",
+    "translation": "Accounts are accounts, and a brother is a brother.",
+    "meaning": "Keep money matters straight, even with family.",
+    "equivalent": "Business is business.",
+    "note": "Kākā is an affectionate, old-fashioned word for brother. Love your family — but keep the books.",
+    "type": "proverb"
+  },
+  {
+    "id": "fa-oven-hot",
+    "culture": "fa",
+    "original": "تا تنور گرم است باید نان را چسباند",
+    "transliteration": "tā tanur garm ast, bāyad nān rā chasbānd",
+    "translation": "While the oven is hot, slap the bread on.",
+    "meaning": "Act while the opportunity lasts.",
+    "equivalent": "Strike while the iron is hot.",
+    "note": "Flatbreads like lavash are slapped against the inside wall of a clay tanur oven. Wait too long and it cools.",
+    "type": "proverb"
+  },
+  {
+    "id": "fa-roof-snow",
+    "culture": "fa",
+    "original": "هر که بامش بیش، برفش بیشتر",
+    "transliteration": "har ke bāmash bish, barfash bishtar",
+    "translation": "The bigger your roof, the more snow falls on it.",
+    "meaning": "More wealth or status brings more burdens.",
+    "equivalent": "Heavy is the head that wears the crown.",
+    "note": "Flat roofs had to be cleared by hand after snowfall — a chore that grew with the size of the house.",
+    "type": "proverb"
+  },
+  {
+    "id": "fa-shahnameh",
+    "culture": "fa",
+    "original": "شاهنامه آخرش خوش است",
+    "transliteration": "shāhnāme ākharash khosh ast",
+    "translation": "The Shahnameh has a happy ending.",
+    "meaning": "Don't celebrate too early; things may yet end badly.",
+    "equivalent": "It ain't over till it's over.",
+    "note": "Ferdowsi's epic Book of Kings actually ends in tragedy, with the fall of the Sasanian empire. The irony is the point.",
+    "type": "saying"
+  },
+  {
+    "id": "fa-snake-rope",
+    "culture": "fa",
+    "original": "مارگزیده از ریسمان سیاه و سفید می‌ترسد",
+    "transliteration": "mār-gazide az rismān-e siyāh o sefid mitarsad",
+    "translation": "Someone bitten by a snake fears a black-and-white rope.",
+    "meaning": "A bad experience makes you wary of anything that resembles it.",
+    "equivalent": "Once bitten, twice shy.",
+    "note": "The striped rope looks just enough like a snake to make the once-bitten jump.",
+    "type": "proverb"
+  },
+  {
+    "id": "fa-mountains-meet",
+    "culture": "fa",
+    "original": "کوه به کوه نمی‌رسد، آدم به آدم می‌رسد",
+    "transliteration": "kuh be kuh nemiresad, ādam be ādam miresad",
+    "translation": "Mountains never meet, but people do.",
+    "meaning": "You'll cross paths with people again, so treat them well.",
+    "equivalent": "It's a small world.",
+    "note": "Said warmly at a parting — or as a quiet warning to someone who has behaved badly.",
+    "type": "proverb"
+  },
+
+  {
+    "id": "tr-drop-lake",
+    "culture": "tr",
+    "original": "Damlaya damlaya göl olur.",
+    "translation": "Drop by drop, a lake forms.",
+    "meaning": "Small amounts add up over time.",
+    "equivalent": "Every little bit helps.",
+    "note": "Close cousins appear across cultures — compare the Swahili haba na haba and the Korean dust that becomes a mountain.",
+    "type": "proverb"
+  },
+  {
+    "id": "tr-save-straw",
+    "culture": "tr",
+    "original": "Sakla samanı, gelir zamanı.",
+    "translation": "Keep the straw — its time will come.",
+    "meaning": "Don't throw things away; you may need them later.",
+    "equivalent": "Waste not, want not.",
+    "note": "Straw seems worthless until winter fodder runs short. The rhyme of samanı and zamanı keeps it memorable.",
+    "type": "proverb"
+  },
+  {
+    "id": "tr-coffee",
+    "culture": "tr",
+    "original": "Bir fincan kahvenin kırk yıl hatırı vardır.",
+    "translation": "A single cup of coffee is remembered for forty years.",
+    "meaning": "Even a small kindness creates a lasting bond.",
+    "note": "Turkish coffee is a gesture of hospitality, and forty is a traditional number for \"a very long time\".",
+    "type": "proverb"
+  },
+  {
+    "id": "tr-tree-young",
+    "culture": "tr",
+    "original": "Ağaç yaşken eğilir.",
+    "translation": "A tree is bent while it's young.",
+    "meaning": "Habits and character are shaped early.",
+    "equivalent": "As the twig is bent, so grows the tree.",
+    "note": "Yaş means both \"age\" and \"green, fresh\" — a green sapling bends, a dry old trunk breaks.",
+    "type": "proverb"
+  },
+  {
+    "id": "tr-patient-dervish",
+    "culture": "tr",
+    "original": "Sabreden derviş muradına ermiş.",
+    "translation": "The patient dervish attained his wish.",
+    "meaning": "Patience is rewarded.",
+    "equivalent": "Good things come to those who wait.",
+    "note": "Dervishes, the Sufi mystics, were models of patience. The -miş ending is the storytelling past tense, so it sounds like the end of a tale.",
+    "type": "proverb"
+  },
+  {
+    "id": "tr-grape",
+    "culture": "tr",
+    "original": "Üzüm üzüme baka baka kararır.",
+    "translation": "A grape darkens by looking at another grape.",
+    "meaning": "People take on the habits of those around them.",
+    "equivalent": "You are the company you keep.",
+    "note": "Grapes on a bunch ripen together, as if they were copying each other.",
+    "type": "proverb"
+  },
+  {
+    "id": "tr-friend-bitter",
+    "culture": "tr",
+    "original": "Dost acı söyler.",
+    "translation": "A friend speaks bitter words.",
+    "meaning": "A true friend tells you the hard truth.",
+    "note": "Flatterers say what you want to hear; a real friend says what you need to hear.",
+    "type": "proverb"
+  },
+
+  {
+    "id": "es-closed-mouth",
+    "culture": "es",
+    "original": "En boca cerrada no entran moscas.",
+    "translation": "Flies don't get into a closed mouth.",
+    "meaning": "Keeping quiet keeps you out of trouble.",
+    "equivalent": "Silence is golden.",
+    "note": "Advice for moments when saying anything at all can only make things worse.",
+    "type": "proverb"
+  },
+  {
+    "id": "es-sleeping-shrimp",
+    "culture": "es",
+    "original": "Camarón que se duerme se lo lleva la corriente.",
+    "translation": "The shrimp that falls asleep gets swept away by the current.",
+    "meaning": "If you're not alert, you'll miss out or be left behind.",
+    "equivalent": "You snooze, you lose.",
+    "note": "Especially popular in Latin America, often shortened to just \"camarón que se duerme…\"",
+    "type": "proverb"
+  },
+  {
+    "id": "es-no-bad",
+    "culture": "es",
+    "original": "No hay mal que por bien no venga.",
+    "translation": "There's no misfortune that doesn't bring some good.",
+    "meaning": "Something good comes out of every bad situation.",
+    "equivalent": "Every cloud has a silver lining.",
+    "note": "Said to console someone after a setback — often with a knowing smile.",
+    "type": "proverb"
+  },
+  {
+    "id": "es-gift-horse",
+    "culture": "es",
+    "original": "A caballo regalado no se le mira el diente.",
+    "translation": "You don't check the teeth of a horse you were given.",
+    "meaning": "Don't be critical of a gift.",
+    "equivalent": "Don't look a gift horse in the mouth.",
+    "note": "A horse's age is read from its teeth. The saying goes back at least to St Jerome, writing in Latin around 400 CE.",
+    "type": "proverb"
+  },
+  {
+    "id": "es-devil-old",
+    "culture": "es",
+    "original": "Más sabe el diablo por viejo que por diablo.",
+    "translation": "The devil knows more from being old than from being the devil.",
+    "meaning": "Experience teaches more than cleverness.",
+    "equivalent": "Experience is the best teacher.",
+    "note": "A favourite reply of grandparents when the young think they know better.",
+    "type": "proverb"
+  },
+  {
+    "id": "es-saying-doing",
+    "culture": "es",
+    "original": "Del dicho al hecho hay mucho trecho.",
+    "translation": "From saying to doing is a long stretch.",
+    "meaning": "Promises are easy; following through is hard.",
+    "equivalent": "Easier said than done.",
+    "note": "The triple rhyme — dicho, hecho, trecho — is what makes it quotable.",
+    "type": "proverb"
+  },
+  {
+    "id": "es-raise-crows",
+    "culture": "es",
+    "original": "Cría cuervos y te sacarán los ojos.",
+    "translation": "Raise crows and they'll peck your eyes out.",
+    "meaning": "Those you help may turn against you.",
+    "equivalent": "Bite the hand that feeds you.",
+    "note": "It gave its name to Carlos Saura's 1976 film Cría cuervos.",
+    "type": "proverb"
+  },
+
+  {
+    "id": "de-rest-rust",
+    "culture": "de",
+    "original": "Wer rastet, der rostet.",
+    "translation": "Whoever rests, rusts.",
+    "meaning": "Stay active or you'll lose your abilities.",
+    "equivalent": "Use it or lose it.",
+    "note": "A favourite motto of German hiking clubs and fitness-minded retirees.",
+    "type": "proverb"
+  },
+  {
+    "id": "de-practice-master",
+    "culture": "de",
+    "original": "Übung macht den Meister.",
+    "translation": "Practice makes the master.",
+    "meaning": "Skill comes from practice.",
+    "equivalent": "Practice makes perfect.",
+    "note": "Meister is also a formal title in German crafts: a master craftsman who has passed the Meisterprüfung.",
+    "type": "proverb"
+  },
+  {
+    "id": "de-end-good",
+    "culture": "de",
+    "original": "Ende gut, alles gut.",
+    "translation": "End good, all good.",
+    "meaning": "A good outcome makes up for the troubles along the way.",
+    "equivalent": "All's well that ends well.",
+    "note": "Short enough to say with a sigh of relief. It's also the German title of Shakespeare's play.",
+    "type": "proverb"
+  },
+  {
+    "id": "de-a-and-b",
+    "culture": "de",
+    "original": "Wer A sagt, muss auch B sagen.",
+    "translation": "Whoever says A must also say B.",
+    "meaning": "Once you've started something, you have to see it through.",
+    "equivalent": "In for a penny, in for a pound.",
+    "note": "Bertolt Brecht answered it in his play Der Jasager und der Neinsager: whoever says A doesn't have to say B, if they realize A was wrong.",
+    "type": "proverb"
+  },
+  {
+    "id": "de-dog-buried",
+    "culture": "de",
+    "original": "Da liegt der Hund begraben.",
+    "translation": "That's where the dog is buried.",
+    "meaning": "That's the heart of the matter.",
+    "equivalent": "That's the crux of it.",
+    "note": "Its origin is disputed, with theories ranging from buried treasure to real dog graves. Nobody knows where the dog is buried.",
+    "type": "idiom"
+  },
+  {
+    "id": "de-morning-gold",
+    "culture": "de",
+    "original": "Morgenstund hat Gold im Mund.",
+    "translation": "The morning hour has gold in its mouth.",
+    "meaning": "Those who start early get more done.",
+    "equivalent": "The early bird catches the worm.",
+    "note": "Often traced to the Latin Aurora musis amica, \"dawn is a friend to the Muses.\"",
+    "type": "proverb"
+  },
+  {
+    "id": "de-train-station",
+    "culture": "de",
+    "original": "Ich verstehe nur Bahnhof.",
+    "translation": "I only understand \"train station\".",
+    "meaning": "I have no idea what you're talking about.",
+    "equivalent": "It's all Greek to me.",
+    "note": "Often traced to soldiers at the end of the First World War, who could think of nothing but the station that would take them home.",
+    "type": "idiom"
+  },
+
+  {
+    "id": "el-know-thyself",
+    "culture": "el",
+    "original": "Γνῶθι σαυτόν.",
+    "transliteration": "Gnōthi sauton.",
+    "romanization": "Ancient Greek, scholarly",
+    "translation": "Know thyself.",
+    "meaning": "Understand your own nature and limits.",
+    "note": "One of the maxims inscribed at the Temple of Apollo at Delphi. Socrates made it central to philosophy.",
+    "source": "Temple of Apollo, Delphi",
+    "type": "maxim"
+  },
+  {
+    "id": "el-nothing-excess",
+    "culture": "el",
+    "original": "Μηδὲν ἄγαν.",
+    "transliteration": "Mēden agan.",
+    "romanization": "Ancient Greek, scholarly",
+    "translation": "Nothing in excess.",
+    "meaning": "Moderation in all things.",
+    "note": "Also inscribed at Delphi, beside \"know thyself\". Moderation runs through Greek ethics, all the way to Aristotle's golden mean.",
+    "source": "Temple of Apollo, Delphi",
+    "type": "maxim"
+  },
+  {
+    "id": "el-everything-flows",
+    "culture": "el",
+    "original": "Πάντα ῥεῖ.",
+    "transliteration": "Panta rhei.",
+    "romanization": "Ancient Greek, scholarly",
+    "translation": "Everything flows.",
+    "meaning": "Nothing stays the same; change is constant.",
+    "note": "Associated with Heraclitus, though these exact words come from later writers summarising him. His better-attested image: you can't step into the same river twice.",
+    "type": "maxim"
+  },
+  {
+    "id": "el-one-swallow",
+    "culture": "el",
+    "original": "Μία χελιδὼν ἔαρ οὐ ποιεῖ.",
+    "transliteration": "Mia chelidōn ear ou poiei.",
+    "romanization": "Ancient Greek, scholarly",
+    "translation": "One swallow does not make a spring.",
+    "meaning": "One good sign doesn't mean a lasting change.",
+    "equivalent": "One swallow doesn't make a summer.",
+    "note": "Aristotle adds that one day, or a short time, doesn't make a person happy either. In English, the swallow moved to summer.",
+    "source": "Aristotle, Nicomachean Ethics 1.7",
+    "type": "saying"
+  },
+  {
+    "id": "el-tongue-bones",
+    "culture": "el",
+    "original": "Η γλώσσα κόκαλα δεν έχει, αλλά κόκαλα τσακίζει.",
+    "transliteration": "I glóssa kókala den échei, allá kókala tsakízei.",
+    "translation": "The tongue has no bones, but it breaks bones.",
+    "meaning": "Words can do real harm.",
+    "note": "A popular modern Greek proverb, usually said as a warning before someone speaks in anger.",
+    "type": "proverb"
+  },
+  {
+    "id": "el-hurry-stumbles",
+    "culture": "el",
+    "original": "Όποιος βιάζεται σκοντάφτει.",
+    "transliteration": "Ópoios viázetai skontáftei.",
+    "translation": "Whoever hurries, stumbles.",
+    "meaning": "Rushing leads to mistakes.",
+    "equivalent": "Haste makes waste.",
+    "note": "The ancient Greeks had their own version, σπεῦδε βραδέως — \"hasten slowly\" — which the Romans took up as festina lente.",
+    "type": "proverb"
+  },
+  {
+    "id": "el-every-obstacle",
+    "culture": "el",
+    "original": "Κάθε εμπόδιο για καλό.",
+    "transliteration": "Káthe empódio gia kaló.",
+    "translation": "Every obstacle is for the good.",
+    "meaning": "A setback may turn out to be lucky.",
+    "equivalent": "A blessing in disguise.",
+    "note": "Said when plans fall through. Compare the Hebrew gam zo le-tova, \"this too is for the good.\"",
+    "type": "proverb"
+  },
+
+  {
+    "id": "sw-little-little",
+    "culture": "sw",
+    "original": "Haba na haba hujaza kibaba.",
+    "translation": "Little by little fills the measure.",
+    "meaning": "Small efforts add up.",
+    "equivalent": "Every little bit helps.",
+    "note": "A kibaba is a small traditional measure for grain. Perhaps the best-known Swahili proverb, it's often printed on kanga cloths.",
+    "type": "proverb"
+  },
+  {
+    "id": "sw-slowly",
+    "culture": "sw",
+    "original": "Pole pole ndio mwendo.",
+    "translation": "Slowly, slowly is the way to go.",
+    "meaning": "A steady pace gets you there.",
+    "equivalent": "Slow and steady wins the race.",
+    "note": "Pole pole is heard constantly in East Africa. Every climber on Kilimanjaro hears it from their guides.",
+    "type": "proverb"
+  },
+  {
+    "id": "sw-elder-leg",
+    "culture": "sw",
+    "original": "Asiyesikia la mkuu huvunjika guu.",
+    "translation": "Whoever doesn't listen to their elders breaks a leg.",
+    "meaning": "Ignore wise advice at your peril.",
+    "note": "Guu is a playful form of mguu (leg), chosen for the rhyme. It's a standard warning to headstrong children.",
+    "type": "proverb"
+  },
+  {
+    "id": "sw-guest-come",
+    "culture": "sw",
+    "original": "Mgeni njoo, mwenyeji apone.",
+    "translation": "Guest, come — so the host may prosper.",
+    "meaning": "Guests bring blessings to the household.",
+    "note": "When a visitor arrives, a better meal gets cooked, and the host eats well too. A warm way to welcome someone.",
+    "type": "proverb"
+  },
+  {
+    "id": "sw-one-finger",
+    "culture": "sw",
+    "original": "Kidole kimoja hakivunji chawa.",
+    "translation": "One finger can't crush a louse.",
+    "meaning": "Some things can only be done together.",
+    "equivalent": "Many hands make light work.",
+    "note": "An earthy image of cooperation: you need at least two fingers for even the smallest job.",
+    "type": "proverb"
+  },
+  {
+    "id": "sw-crack-wall",
+    "culture": "sw",
+    "original": "Usipoziba ufa utajenga ukuta.",
+    "translation": "If you don't fill the crack, you'll be building a wall.",
+    "meaning": "Fix small problems before they become big ones.",
+    "equivalent": "A stitch in time saves nine.",
+    "note": "Common in East African politics and journalism as a warning against ignoring early signs of trouble.",
+    "type": "proverb"
+  },
+  {
+    "id": "sw-spilled-water",
+    "culture": "sw",
+    "original": "Maji yakimwagika hayazoleki.",
+    "translation": "Once water is spilled, it can't be gathered up.",
+    "meaning": "Some things can't be undone.",
+    "equivalent": "No use crying over spilt milk.",
+    "note": "Sometimes used as a warning before acting rashly, not only as comfort afterwards.",
+    "type": "proverb"
+  },
+
+  {
+    "id": "yo-character-beauty",
+    "culture": "yo",
+    "original": "Ìwà lẹwà.",
+    "translation": "Character is beauty.",
+    "meaning": "Good character matters more than good looks.",
+    "equivalent": "Beauty is as beauty does.",
+    "note": "Ìwà (character) is central to Yoruba ethics. The ideal person, the ọmọlúàbí, is admired for conduct rather than appearance.",
+    "type": "proverb",
+    "review": true
+  },
+  {
+    "id": "yo-one-tree",
+    "culture": "yo",
+    "original": "Igi kan kì í dágbó ṣe.",
+    "translation": "One tree does not make a forest.",
+    "meaning": "Strength comes from community, not individuals alone.",
+    "equivalent": "United we stand.",
+    "note": "A reminder that no one achieves anything truly great alone.",
+    "type": "proverb",
+    "review": true
+  },
+  {
+    "id": "yo-one-road",
+    "culture": "yo",
+    "original": "Ọ̀nà kan ò wọ ọjà.",
+    "translation": "No single road leads into the market.",
+    "meaning": "There is always more than one way to reach a goal.",
+    "equivalent": "There's more than one way to skin a cat.",
+    "note": "Yoruba markets drew traders along many paths — a reminder not to give up when one route is blocked.",
+    "type": "proverb",
+    "review": true
+  },
+  {
+    "id": "yo-home-rest",
+    "culture": "yo",
+    "original": "Ilé làbọ̀ sinmi oko.",
+    "translation": "Home is where one returns to rest from the farm.",
+    "meaning": "However far you go, home is where you find rest.",
+    "equivalent": "There's no place like home.",
+    "note": "Often quoted to people living abroad, as a reminder that home is waiting.",
+    "type": "proverb",
+    "review": true
+  },
+  {
+    "id": "yo-elders-market",
+    "culture": "yo",
+    "original": "Àgbà kì í wà lọ́jà kí orí ọmọ tuntun wọ́.",
+    "translation": "Elders are not in the market and let a baby's head hang crooked.",
+    "meaning": "Responsible people step in when something is wrong.",
+    "note": "Babies are carried on their mothers' backs. An elder who sees a baby's head lolling is expected to fix it — it's a call to take responsibility.",
+    "type": "proverb",
+    "review": true
+  },
+
+  {
+    "id": "fi-own-land",
+    "culture": "fi",
+    "original": "Oma maa mansikka, muu maa mustikka.",
+    "translation": "Your own land is a strawberry, other lands a blueberry.",
+    "meaning": "Home is sweetest.",
+    "equivalent": "There's no place like home.",
+    "note": "Both berries grow wild all over Finland — but the strawberry is the sweeter prize.",
+    "type": "proverb"
+  },
+  {
+    "id": "fi-smoke-fire",
+    "culture": "fi",
+    "original": "Ei savua ilman tulta.",
+    "translation": "No smoke without fire.",
+    "meaning": "Rumours usually have some truth behind them.",
+    "equivalent": "Where there's smoke, there's fire.",
+    "note": "Found in almost the same words across Europe. In Finland, land of saunas, smoke is rarely far away.",
+    "type": "proverb"
+  },
+  {
+    "id": "fi-spruce-juniper",
+    "culture": "fi",
+    "original": "Joka kuuseen kurkottaa, se katajaan kapsahtaa.",
+    "translation": "Whoever reaches for the spruce falls into the juniper.",
+    "meaning": "Overreaching leads to a fall.",
+    "equivalent": "Pride comes before a fall.",
+    "note": "The alliteration of kuuseen kurkottaa and katajaan kapsahtaa is classic Finnish. Juniper is low and prickly — a painful place to land.",
+    "type": "proverb"
+  },
+  {
+    "id": "fi-learning-ditch",
+    "culture": "fi",
+    "original": "Ei oppi ojaan kaada.",
+    "translation": "Learning won't tip you into a ditch.",
+    "meaning": "Knowledge is never wasted.",
+    "note": "A reflection of Finland's deep respect for education.",
+    "type": "proverb"
+  },
+  {
+    "id": "fi-forest-answers",
+    "culture": "fi",
+    "original": "Niin metsä vastaa kuin sinne huudetaan.",
+    "translation": "The forest answers the way you shout into it.",
+    "meaning": "How you treat others is how they'll treat you.",
+    "equivalent": "What goes around comes around.",
+    "note": "An echo in a forest returns exactly what you sent — kindness or rudeness alike.",
+    "type": "proverb"
+  },
+  {
+    "id": "fi-diligence-luck",
+    "culture": "fi",
+    "original": "Ahkeruus kovan onnen voittaa.",
+    "translation": "Diligence overcomes hard luck.",
+    "meaning": "Hard work beats bad luck.",
+    "note": "A plain-spoken favourite in a country with long winters and thin soil, where persistence was everything.",
+    "type": "proverb"
+  },
+  {
+    "id": "fi-born-smith",
+    "culture": "fi",
+    "original": "Ei kukaan ole seppä syntyessään.",
+    "translation": "No one is born a smith.",
+    "meaning": "Every skill has to be learned.",
+    "equivalent": "Practice makes perfect.",
+    "note": "The smith is a mythic figure in Finland — Ilmarinen forges the magical Sampo in the Kalevala — yet even smiths have to learn.",
+    "type": "proverb"
+  }
+]

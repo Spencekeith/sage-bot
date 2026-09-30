@@ -1,0 +1,17 @@
+[
+  { "id": "ru", "name": "Russian", "endonym": "Русский", "lang": "ru", "dir": "ltr", "font": "Noto Serif Display", "romanization": "BGN/PCGN (simplified)", "hue": 355 },
+  { "id": "ja", "name": "Japanese", "endonym": "日本語", "lang": "ja", "dir": "ltr", "font": "Noto Serif JP", "romanization": "Hepburn", "hue": 5 },
+  { "id": "zh", "name": "Chinese", "endonym": "中文", "lang": "zh-Hans", "dir": "ltr", "font": "Noto Serif SC", "romanization": "Hanyu Pinyin", "hue": 20 },
+  { "id": "ko", "name": "Korean", "endonym": "한국어", "lang": "ko", "dir": "ltr", "font": "Noto Serif KR", "romanization": "Revised Romanization", "hue": 215 },
+  { "id": "ar", "name": "Arabic", "endonym": "العربية", "lang": "ar", "dir": "rtl", "font": "Noto Naskh Arabic", "romanization": "Simplified academic", "hue": 150 },
+  { "id": "he", "name": "Hebrew", "endonym": "עברית", "lang": "he", "dir": "rtl", "font": "Noto Serif Hebrew", "romanization": "Simplified academic", "hue": 225 },
+  { "id": "hi", "name": "Hindi", "endonym": "हिन्दी", "lang": "hi", "dir": "ltr", "font": "Noto Serif Devanagari", "romanization": "Simplified ISO 15919", "hue": 35 },
+  { "id": "fa", "name": "Persian", "endonym": "فارسی", "lang": "fa", "dir": "rtl", "font": "Noto Naskh Arabic", "romanization": "Simplified (Tehran pronunciation)", "hue": 190 },
+  { "id": "tr", "name": "Turkish", "endonym": "Türkçe", "lang": "tr", "dir": "ltr", "font": "Noto Serif Display", "hue": 0 },
+  { "id": "es", "name": "Spanish", "endonym": "Español", "lang": "es", "dir": "ltr", "font": "Noto Serif Display", "hue": 40 },
+  { "id": "de", "name": "German", "endonym": "Deutsch", "lang": "de", "dir": "ltr", "font": "Noto Serif Display", "hue": 45 },
+  { "id": "el", "name": "Greek", "endonym": "Ελληνικά", "lang": "el", "dir": "ltr", "font": "Noto Serif Display", "romanization": "ELOT 743 (simplified)", "hue": 205 },
+  { "id": "sw", "name": "Swahili", "endonym": "Kiswahili", "lang": "sw", "dir": "ltr", "font": "Noto Serif Display", "hue": 95 },
+  { "id": "yo", "name": "Yoruba", "endonym": "Yorùbá", "lang": "yo", "dir": "ltr", "font": "Noto Serif Display", "hue": 120 },
+  { "id": "fi", "name": "Finnish", "endonym": "Suomi", "lang": "fi", "dir": "ltr", "font": "Noto Serif Display", "hue": 200 }
+]

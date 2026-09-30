@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Short wisdoms from around the world — in the original script, transliterated, and translated." />
+    <meta name="theme-color" content="#f4efe6" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#15130f" media="(prefers-color-scheme: dark)" />
+    <title>Sage</title>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Serif+Display:ital,wght@0,300..600;1,300..500&display=swap"
+    />
+  </head>
+  <body>
+    <header class="bar top">
+      <span class="wordmark">sage</span>
+      <label class="culture-picker">
+        <span class="visually-hidden">Show wisdoms from</span>
+        <select id="culture"></select>
+      </label>
+    </header>
+
+    <main class="stage">
+      <article class="wisdom" id="wisdom" aria-live="polite">
+        <p class="eyebrow" id="eyebrow"></p>
+        <p class="original" id="original"></p>
+        <span class="rule" aria-hidden="true"></span>
+        <p class="transliteration" id="transliteration"></p>
+        <p class="translation" id="translation"></p>
+      </article>
+    </main>
+
+    <footer class="bar bottom">
+      <span class="hint" aria-hidden="true">space for another</span>
+      <button class="next" id="next" type="button" aria-label="Another wisdom" title="Another (Space)">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+          <path d="M20 12a8 8 0 1 1-2.34-5.66" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" />
+          <path d="M20 4v5h-5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+        </svg>
+      </button>
+      <div class="learn">
+        <button class="learn-toggle" id="learn-toggle" type="button" aria-expanded="false" aria-controls="learn-panel" title="Learn more (I)">
+          <span class="learn-dot" aria-hidden="true">i</span>
+          <span class="learn-label">About this saying</span>
+        </button>
+        <aside class="learn-panel" id="learn-panel" hidden>
+          <p class="panel-eyebrow" id="panel-eyebrow"></p>
+          <dl class="panel-facts" id="panel-facts"></dl>
+          <p class="panel-note" id="panel-note"></p>
+          <p class="panel-meta" id="panel-meta"></p>
+        </aside>
+      </div>
+    </footer>
+
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
