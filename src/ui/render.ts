@@ -45,7 +45,7 @@ function fillCard(wisdom: Wisdom, culture: Culture): void {
   el.original.textContent = wisdom.original;
   el.original.lang = culture.lang;
   el.original.dir = culture.dir;
-  el.original.style.fontFamily = `"${culture.font}", "Noto Serif Display", serif`;
+  el.original.style.fontFamily = `"${culture.font}", "Source Serif 4", "Noto Serif", serif`;
   el.original.dataset.length = lengthClass(wisdom.original, culture);
 
   el.transliteration.textContent = wisdom.transliteration ?? '';
